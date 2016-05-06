@@ -150,7 +150,7 @@ a.rslides_nav.next:hover {background-position: -41px 0px;cursor: pointer;}
 
 .body_item .service_items  p {font-size:16px; background: #fff; height:40px; line-height:40px;}
 .body_item .service_items .service_item1 {overflow: hidden;text-align:center; background: #fff;}
-.body_item .service_items .service_item1 li {width:154px; height:154px; border-left: 1px solid #f5f5f5; display:inline-block; float:left; }
+.body_item .service_items .service_item1 li {width:16.6%; height:154px; border-left: 1px solid #f5f5f5; display:inline-block; float:left; }
 .body_item .service_items .service_item1 .fi {border:none;}
 .body_item .service_items .service_item1 li img {width:80px; height: 80px; margin:0 auto; margin-top:20px; margin-bottom: -10px;}
 
@@ -359,7 +359,7 @@ p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; te
 	.wrap .wrapper .menu .category i {top:13px;}
 	.wrap .wrapper .item_content ul li {height:47.4px; line-height: 47.4px;}
 
-  .body_item .service_items .service_item1 li {width:121.6px; height:121.6px; border-left: 1px solid #dcdcdc; display:inline-block; float:left;}
+  .body_item .service_items .service_item1 li {width:16.55%; height:121.6px; border-left: 1px solid #dcdcdc; display:inline-block; float:left;}
   .body_item .service_items .service_item1 li img {width:70px; height: 70px; margin:0 auto; margin-top:10px; margin-bottom:-5px;}
   .body_item2 .bd2_items ul li .price_info .text_content {margin:0 auto;}
 
@@ -375,5 +375,3 @@ p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; te
 	.foot .ft_item2 {float:left; width:34%;}
 }
 
-/* 主页厨师内容隐藏 ！important */
-.body_item .service_items .service_item2, .body_item .service_items .service_item3{display:none;}
