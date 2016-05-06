@@ -222,6 +222,8 @@ a.rslides_nav.next:hover {background-position: -41px 0px;cursor: pointer;}
 .body_item2 .tb caption {margin:10px auto; font-size:16px;}
 .body_item2 .f_right .r_content {padding:10px 0;}
 .body_item2 .f_right .r_content p {line-height: 40px; padding:0 40px; text-indent: 2em;}
+p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; text-indent: 0 
+	!important; padding-left:80px !important;}
 /* 洗涤 */
 .body_item2 .f_right .r_item1{ background-color: #fff; min-height:818px;}
 
@@ -240,6 +242,7 @@ a.rslides_nav.next:hover {background-position: -41px 0px;cursor: pointer;}
 .body_item2 .r_item2 .service_feature p {font-size: 15px; color: #6b6b6b; height:20px;line-height: 20px; margin-bottom:15px;}
 .body_item2 .r_item2 .service_feature2 {width:90%; margin:20px auto;}
 .body_item2 .r_item2 .service_feature2 img{width:100%; margin-bottom:20px;}
+.body_item2 .f_right .quality_standard p{text-indent: 4em;}
 
 /* 厨师子页面 */
 .body_item2 .bd2_items .items_cook ul{overflow: hidden;}
