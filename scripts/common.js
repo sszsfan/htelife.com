@@ -112,7 +112,7 @@ function showScan() {
 		scans[0].setAttribute("src","images/scan101.png");
 		app.setAttribute("class","show");
 		weixin.setAttribute("class","hidden");
-		img.setAttribute("src","images/test.png");
+		img.setAttribute("src","images/app.png");
 		moveElement("js_qr_code",130,10);
 	};
 	scans[0].onmouseleave = function(){

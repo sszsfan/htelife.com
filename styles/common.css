@@ -223,7 +223,7 @@ a.rslides_nav.next:hover {background-position: -41px 0px;cursor: pointer;}
 .body_item2 .f_right .r_content {padding:10px 0;}
 .body_item2 .f_right .r_content p {line-height: 40px; padding:0 40px; text-indent: 2em;}
 p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; text-indent: 0 
-	!important; padding-left:80px !important;}
+	!important; padding-left:72px !important;}
 /* 洗涤 */
 .body_item2 .f_right .r_item1{ background-color: #fff; min-height:818px;}
 
@@ -325,15 +325,16 @@ p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; te
 .body_item4 .wiki2_content p {margin-bottom:10px; font-size:15px; text-indent: 2em; color:#6b6b6b;}
 /*APP页面*/
 .body_item2 .pic_bg {width:100%; height:610px;}
-.body_item2 .app_pics {position:relative;}
-.body_item2 .app_pics .pic_phone {position:absolute; top:-510px; left:50px; width:370px; height:650px;}
-.body_item2 .app_pics .pic_words1 {position:absolute; top:-390px; left:500px; width:438px; height:62px;}
-.body_item2 .app_pics .pic_words2 {position:absolute; top:-290px; left:500px; width:401px; height:92px;}
+.body_item2 .app_pics {position:relative; color:#fff; }
+.body_item2 .app_pics .pic_phone {position:absolute; top:-510px; left:50px; width:370px; height:650px; }
+.body_item2 .app_pics .words1 {position:absolute; top:-450px; left:500px; font-size: 60px; letter-spacing:15px; }
+.body_item2 .app_pics .words2 {position:absolute; top:-335px; left:500px; font-size: 26px;letter-spacing:3px;}
+.body_item2 .app_pics .words3 {position:absolute; top:-290px; left:500px; font-size: 26px;letter-spacing:3px;}
 .body_item2 .contents {margin:40px auto;}
 .body_item2 .contents .app_version1 { display:inline-block; width:186px; height:62px; line-height:62px;text-align: center; background-color: #fff; margin-left:200px; margin-right: 100px;}
 .body_item2 .contents .app_version2 { display:inline-block; width:186px; height:62px; line-height:62px;  text-align: center; background-color: #fff; margin-right:120px;}
 .body_item2 .contents .app_scan {position:relative; top:47px; display:inline-block; width:150px; text-align: center; }
-.body_item2 .contents .app_scan .app_icon{width:150px; height:150px;}
+.body_item2 .contents .app_scan .app_icon{width:150px; height:150px; background-color: #fff;}
 .body_item2 .contents .app_d { width:150px; height:30px; line-height: 30px; font-size: 14px;}
 /* 切换城市页面 开始 */
 .body_item1 {display:block; min-width: 1240px; background-color: #fff; margin-top:100px;}
@@ -373,5 +374,13 @@ p.jiazheng_tips {font-size: 14px; color:#999; line-height: 30px; height:30px; te
 
 	.foot .ft_item {float:left; width:22%;}
 	.foot .ft_item2 {float:left; width:34%;}
+
+	.body_item2 .pic_bg {width:100%; height:480px;}
+	.body_item2 .app_pics {position:relative; color:#fff; }
+	.body_item2 .app_pics .pic_phone {top:-420px; left:50px; width:296px; height:520px;}
+	.body_item2 .app_pics .words1 {top:-360px; left:400px; font-size: 40px; letter-spacing:10px;}
+	.body_item2 .app_pics .words2 {top:-290px; left:400px; font-size: 20px; }
+	.body_item2 .app_pics .words3 {top:-260px; left:400px; font-size: 20px; }
+	.body_item2 .contents {margin:20px auto;}
 }
 
